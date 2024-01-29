@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="top left" alt="GIF" src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" width="500"/>
+
+<h2> Hey there! I'm Lisa </h2>
+
+(WIP)
 
 <!--
 **LisaFabro/LisaFabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

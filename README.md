@@ -29,7 +29,8 @@
 </p>
 <p align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px" style="vertical-align:top margin:6px 4px" /> JS &#160
-<img src="https://png.pngtree.com/png-vector/20190403/ourmid/pngtree-html-file-document-icon-png-image_909888.jpg" height="30px" style="vertical-align:top margin:6px 4px" />  HTML
+<img src="https://github.com/LisaFabro/LisaFabro/assets/148080404/40881f57-e3b7-4230-975e-08edb09a25f8" height="30px" style="vertical-align:top margin:6px 4px" />  HTML
+<img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" height="30px" style="vertical-align:top margin:6px 4px" />  CSS
 </p>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="30px" style="vertical-align:top margin:6px 4px"/> Visual Studio Code

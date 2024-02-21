@@ -1,14 +1,10 @@
-<div align= "center">
-    <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="GIF" width="400">
-</div>
-
-<h2 align="center"> Hey there! I'm Lisa </h2>
-
-<h4 align="center"> 
-  Cat lover | Java addicted | K-POP enjoyer 
-</h4>
-
-<br>
+<!DOCTYPE html>
+<html>
+    <body>
+    <div align= "center">
+    <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="GIF" width="400"></div>
+    <p><h1 align="center"> Hey there! I'm Lisa </>   
+    <h4 align="center"> Cat lover | Java addicted | K-POP enjoyer </></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I'm currently boosting my skills on ...
@@ -55,3 +51,5 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
   </a>
 </p>
+</body>
+</html>

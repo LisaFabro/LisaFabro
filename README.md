@@ -2,7 +2,7 @@
 <html>
     <body>
     <div align= "center">
-    <img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" alt="GIF" width="400"></div>
+    <img src="https://media1.tenor.com/m/4_FutH7ZrBwAAAAC/matt-mercer-critical-role.gif" alt="GIF" width="400"></div>
     <p><h1 align="center"> Hey there! I'm Lisa </>   
     <h4 align="center"> Cat lover | Java addicted | K-POP enjoyer </></p>
 
